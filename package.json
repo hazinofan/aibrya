@@ -14,6 +14,7 @@
     "@primeuix/themes": "^1.2.3",
     "@primevue/themes": "^4.3.9",
     "@tailwindcss/vite": "^4.1.13",
+    "next-themes": "^0.4.6",
     "nuxt": "^4.1.2",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.9",
@@ -25,8 +26,23 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "@primevue/nuxt-module": "^4.3.9",
     "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^24.5.1",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazinofan/aibrya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazinofan/aibrya/issues"
+  },
+  "homepage": "https://github.com/hazinofan/aibrya#readme"
 }
